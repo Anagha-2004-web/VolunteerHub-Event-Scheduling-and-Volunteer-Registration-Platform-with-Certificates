@@ -1,0 +1,10 @@
+.shadow-card {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+}
+
+.btn-primary {
+  background: linear-gradient(45deg, #3b82f6, #9333ea);
+  padding: 10px 16px;
+  border-radius: 8px;
+  color: white;
+}
